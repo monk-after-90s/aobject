@@ -13,4 +13,4 @@ class C:
                                                    charset='utf8')
 ```
 
-#### So you can get nothing but error.In a function you can not get anything returned buy a coroutine.
+#### So you can get nothing but error. In a function you can not get anything returned buy a coroutine. This is what the object is built for originally. Hope it will grow up.
